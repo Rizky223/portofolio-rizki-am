@@ -373,7 +373,7 @@ export default function App() {
               </div>
               <h3 className="text-lg font-black text-on-surface mb-3">Mengetik 10 Jari</h3>
               <p className="text-xs text-on-surface-variant font-medium leading-relaxed">
-                Kecepatan tinggi (85 - 100 WPM) dengan akurasi prima tanpa melihat keyboard (touch typing) guna memproses naskah harian secepat kilat.
+                Kecepatan tinggi (110 - 125 WPM) dengan akurasi prima tanpa melihat keyboard (touch typing) guna memproses naskah harian secepat kilat.
               </p>
             </div>
           </div>
