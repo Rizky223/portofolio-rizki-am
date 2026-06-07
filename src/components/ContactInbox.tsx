@@ -147,7 +147,7 @@ export default function ContactInbox() {
               <span className="text-xs font-bold text-emerald-800">WhatsApp Kerja Layanan Instan:</span>
             </div>
             <a
-              href="https://wa.me/6285871755822"
+              href="https://wa.me/6281904223698"
               target="_blank"
               className="text-xs font-black text-emerald-600 hover:underline bg-white px-3 py-1.5 rounded-lg border border-emerald-200"
             >
