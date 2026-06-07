@@ -421,10 +421,10 @@ export default function App() {
 
           {/* Nav Links / Social Grid */}
           <div className="flex flex-wrap justify-center gap-8 text-xs font-bold uppercase tracking-wider text-gray-500">
-            <a href="https://wa.me/6285871755822" target="_blank" className="hover:text-primary transition-colors">WhatsApp</a>
-            <a href="https://instagram.com" target="_blank" className="hover:text-primary transition-colors">Instagram</a>
-            <a href="https://threads.net" target="_blank" className="hover:text-primary transition-colors">Threads</a>
-            <a href="https://facebook.com" target="_blank" className="hover:text-primary transition-colors">Facebook</a>
+            <a href="https://wa.me/6281904223698" target="_blank" className="hover:text-primary transition-colors">WhatsApp</a>
+            <a href="https://www.instagram.com/risky.am_?igsh=bmFpbnZobjNjY3Vn" target="_blank" className="hover:text-primary transition-colors">Instagram</a>
+            <a href="https://www.threads.com/@risky.am_" target="_blank" className="hover:text-primary transition-colors">Threads</a>
+            <a href="https://www.facebook.com/share/1EJtSwxvHT/" target="_blank" className="hover:text-primary transition-colors">Facebook</a>
             <button 
               onClick={() => setIsResumeOpen(true)}
               className="text-primary border-b-2 border-primary/20 hover:border-primary pb-0.5 transition-all text-xs font-black uppercase cursor-pointer"
